@@ -52,7 +52,9 @@ The issueNumber should be in front after the category and slash.
 | **docs** | Documentation changes |
 | **refactor** | Code restructure (no functional change) |
 | **test** | Adding or modifying tests |
-| **chore** | Maintenance, build scripts, or configuration updates |
+| **chore** |Minor maintenance, build scripts, formatting, or general project upkeep |
+| **security** | Cybersecurity updates |
+| **infra** | Infrastructure tasks like CI/CD, observability, feature flags, and automation setup |
 
 ### General Conventions
 
